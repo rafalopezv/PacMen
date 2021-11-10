@@ -10,7 +10,7 @@ The project is built in Java Script, CSS, Bootstrap and HTML. To run the project
 
 ## Licence
 
-This repository is under the MIT licence. Click here for more details
+This repository is under the MIT licence. Click [here](https://github.com/rafalopezv/PacMen/blob/main/LICENSE) for more details
 
 
 ## Where to see it
