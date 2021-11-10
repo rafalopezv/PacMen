@@ -20,4 +20,4 @@ See the final result here: https://rafalopezv.github.io/pacmen/pacmen.html
 
 ## Future improvements
 
-- Add keyboard control
+Add keyboard control
